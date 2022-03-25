@@ -27,7 +27,7 @@ The SpellCheckerAdv control has rich set of themes for professional representati
 
 [Suggest a feature or report a bug](https://www.syncfusion.com/feedback/winforms?utm_source=github&utm_medium=listing&utm_campaign=winforms-spell-checker-github-samples)
 
-[Samples](https://github.com/syncfusion/winforms-demos/tree/master/spellchecker.Windows/Samples?utm_source=github&utm_medium=listing&utm_campaign=winforms-spell-checker-github-samples)
+[Samples](https://github.com/syncfusion/winforms-demos/tree/master/spellchecker/Windows/Samples?utm_source=github&utm_medium=listing&utm_campaign=winforms-spell-checker-github-samples)
 
 [Knowledge base](https://www.syncfusion.com/kb/windowsforms?utm_source=github&utm_medium=listing&utm_campaign=winforms-spell-checker-github-samples)
 
